@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sunny-Kat
-- 👀 I’m interested in biology related topics - currently very fixed on carnivorous plants and their evolution and how things work out on a molecular cellular basis ;)
+- 👀 I’m interested in biology related topics - currently very fixed on carnivorous plants and their evolution. I try to investigate them on a molecular and genetic base. ;)
 - 🌱 I’m currently learning how to code, e.g. bash-scripting, r-scripting, python and interpreting biology related datasets.
 - 💞️ I’m looking to collaborate with nice, mindful and respectful people. :)
 - 📫 How to reach me ...
