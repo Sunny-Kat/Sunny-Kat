@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Sunny-Kat
-- 👀 I’m interested in biology related topics - currently very fixed on carnivorous plants and their evolution. I try to investigate them on a molecular and genetic base. ;)
+- 👀 I’m interested in science and therefore are a MSc. student of biology.
 - 🌱 I’m currently learning how to code, e.g. bash-scripting, r-scripting, python and interpreting biology related datasets.
 - 💞️ I’m looking to collaborate with nice, mindful and respectful people. :)
-- 📫 How to reach me ...
 
 <!---
 Sunny-Kat/Sunny-Kat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
