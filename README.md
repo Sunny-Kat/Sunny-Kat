@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sunny-Kat
-- 👀 I’m interested in science and therefore are a MSc. student of biology.
+- 👀 I’m interested in science, especially biology related topics.
 - 🌱 I’m currently learning how to code, e.g. bash-scripting, r-scripting, python and interpreting biology related datasets.
 - 💞️ I’m looking to collaborate with nice, mindful and respectful people. :)
 
